@@ -1056,6 +1056,9 @@ section,
   transform: translateY(-4px);
 }
 
+
+
+
 .about .skill-item {
   padding: 24px;
   border-radius: 6px;
@@ -2846,6 +2849,7 @@ section,
 
 .contact .contact-form .btn:hover {
   background-color: color-mix(in srgb, var(--surface-color), transparent 70%);
+ 
 }
 
 
@@ -2855,7 +2859,6 @@ section,
 .sent-message{
   display: none;
 }
-
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
